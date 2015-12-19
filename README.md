@@ -1,2 +1,2 @@
 # test-repo
-test repo, started as exercise at wk2 DS course
+test repo, exercise at week2 DataSciToolbox Coursera course
